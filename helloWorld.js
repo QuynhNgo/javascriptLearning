@@ -1,5 +1,5 @@
 
-<script scr = "https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js"> </script>
+
 
 
 var smg = "hello world";
