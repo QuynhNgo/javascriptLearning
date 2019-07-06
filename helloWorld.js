@@ -1,8 +1,7 @@
 var smg = "hello world";
 console.log(smg)
 
-
-void Dosomething()
+function Dosomething()
 {
     console.log("Hello, it's me who is learning js");
     d3.json('https://jsonplaceholder.typicode.com/todos/1')
