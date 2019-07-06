@@ -1,5 +1,3 @@
-var smg = "hello world";
-console.log(smg)
 
 function Dosomething()
 {
@@ -7,4 +5,6 @@ function Dosomething()
     d3.json('https://jsonplaceholder.typicode.com/todos/1')
     .then(data =>{console.log(data);})
 }
+
+Dosomething();
 
