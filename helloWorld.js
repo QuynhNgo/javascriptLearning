@@ -1,7 +1,3 @@
-
-
-
-
 var smg = "hello world";
 console.log(smg)
 
@@ -13,9 +9,3 @@ void Dosomething()
     .then(data =>{console.log(data);})
 }
 
-void dokdjdlj()
-{
-    skdjfkajfkj
-    lakjfdkjk
-    aldjkj
-}
